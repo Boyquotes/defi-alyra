@@ -1,0 +1,6 @@
+[submodule "v2-core"]
+	path = v2-core
+	url = git@github.com:Boyquotes/v2-core.git
+[submodule "v2-periphery"]
+	path = v2-periphery
+	url = git@github.com:Boyquotes/v2-periphery.git
